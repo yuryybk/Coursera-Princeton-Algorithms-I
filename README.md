@@ -1,2 +1,2 @@
 # Coursera-Algorithms-I
-Assignments code for Coursear Algorithms I 
+Assignments code for Coursera Algorithms I 
